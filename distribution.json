@@ -346,7 +346,7 @@
           }
         },
         {
-          "id": "net.mcreator:customainmenu:1.12.2-2.0.8@jar",
+          "id": "net.mcreator:custommainmenu:1.12.2-2.0.8@jar",
           "name": "CustomMainMenu",
           "type": "ForgeMod",
           "artifact": {
