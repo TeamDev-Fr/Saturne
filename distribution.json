@@ -374,27 +374,6 @@
             "url": "https://drive.google.com/uc?export=download&id=1Jyd_v5gEchhsUl1xKSfRwwXpr3NX7SV1",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
-        },
-        {
-          "id": "net.mcreator:custommainmenu:2.0.8@jar",
-          "name": "Custom Main Menu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9341261,
-            "url": "https://1drv.ms/u/s!ArQVuPXZUZolhnGx4zTg8xNEr7o4?e=jEahw5",
-            "MD5": "54304e70743fa33bddaba88a87296f47"
-          }          
-        },
-        {
-          "id": "mainmenu.json",
-          "name": "mainmenu.json",
-          "type": "File",
-          "artifact": {
-            "size": 4027,
-            "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
-            "MD5": "75fc34f73e9484efe639e096549130de",
-            "path": "config/CustomMainMenu/mainmenu.json"
-          }
         }
       ]
     }
