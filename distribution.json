@@ -350,7 +350,7 @@
           "name": "Simple Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21677,
+            "size": 133644,
             "url": "https://drive.google.com/uc?export=download&id=1psbakRBNr-EgAo6Tktfa201Sq0ceZw7y",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
@@ -360,7 +360,7 @@
           "name": "Simple Ores",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21677,
+            "size": 157767,
             "url": "https://drive.google.com/uc?export=download&id=1YZnJneHXsQyJXrCDQxkIiILOHi6-e9C8",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
@@ -370,13 +370,13 @@
           "name": "Chisel and Bits",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21677,
+            "size": 737407,
             "url": "https://drive.google.com/uc?export=download&id=1Jyd_v5gEchhsUl1xKSfRwwXpr3NX7SV1",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
         {
-          "id": "lumien.custommainmenu:custommainmenu:2.0.8@jar",
+          "id": "net.mcreator:custommainmenu:2.0.8@jar",
           "name": "Custom Main Menu",
           "type": "ForgeMod",
           "artifact": {
