@@ -8,20 +8,20 @@
   },
   "servers": [
     {
-      "id": "cocoricomc-1.12.2",
-      "name": "CocoricoMC",
-      "description": "CocoricoMC",
-      "icon": null,
+      "id": "teamplay-mc",
+      "name": "TeamPlay",
+      "description": "Un grand PvP Faction, Mini Games et Créatif",
+      "icon": "https://i.imgur.com/QZ3krG0.png",
       "version": "1.0.0",
-      "address": "193.168.146.163:25565",
+      "address": "teamplay-network.minesr.com",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
         "largeImageText": "",
         "largeImageKey": ""
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
@@ -246,12 +246,12 @@
           }
         },
         {
-          "id": "net.mcreator:cocoricomod:0.0.5@jar",
-          "name": "CocoricoMod",
+          "id": "net.mcreator:teamplaymod:0.0.5@jar",
+          "name": "TeamPlayMod",
           "type": "ForgeMod",
           "artifact": {
             "size": 3887327,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/CocoricoMod%206.2.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1l91sdc9iD5Zfekbptu6JEyuKPQcNNHzI",
             "MD5": "1ce5ee3ffe4d38fe4f4e07242d97b00a"
           }
         },
@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 704330,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1I14jMgQKX17TlC593NM5bLBDsRJ5cedN",
             "MD5": "3b5e44db5ac96fb23a439590b6731a31"
           }
         },
@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9341261,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1yQWr4I9mmSxCs52ZsBg8xlcD4UcIOuCv",
             "MD5": "54304e70743fa33bddaba88a87296f47"
           }
         },
@@ -281,58 +281,38 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://drive.google.com/uc?export=download&id=1lrkISjk0mO-z8ftmh-DPPX8bRJ9SJJPQ",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
         {
-          "id": "elec332.core.loader:eleccore:1.9.453@jar",
-          "name": "ElecCore",
+          "id": "net.mcreator:ironchest:0.0.5@jar",
+          "name": "Iron Chest",
           "type": "ForgeMod",
           "artifact": {
             "size": 544144,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/ElecCore-1.12.2-1.9.453.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1KwAc15_2TBYa_b8Q7852_wZb7B9xxIuZ",
             "MD5": "031ab266b23dc6d6d8b712fb286779af"
           }
         },
         {
-          "id": "elec332.huds:huds:1.12.2-1.0.6@jar",
-          "name": "Huds",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25762,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/Huds-1.12.2-1.0.6.jar",
-            "MD5": "7786bf47be874f8fd234c714102d653f"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:4.12.0.216@jar",
+          "id": "mezz.jei:jei:4.16.1.301@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
             "size": 583711,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/jei_1.12.2-4.12.0.216.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1N0lqtLOXEGHoU2pSEgxpmUutj2nxNqyD",
             "MD5": "0ecfa5cbd16c7c631e77cf0e575f51e3"
           }
         },
         {
-          "id": "net.montoyo:mcef:1.12.2-0.9@jar",
-          "name": "Minecraft Chromium Embedded Framework",
+          "id": "net.mcreator:storagedrawers:1.12.2-5.4.2@jar",
+          "name": "Storage Drawers",
           "type": "ForgeMod",
           "artifact": {
             "size": 323311,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/Minecraft-Chromium-Embedded-Framework-1.12.2.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1uFxAqdC4ecBiWs0xpJTA9yA5fq4uX5ND",
             "MD5": "dbdb8e026ec019f49ea873c9c2a130b3"
-          }
-        },
-        {
-          "id": "codechicken.nei:nei:2.4.3.245@jar",
-          "name": "Not Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 470831,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/NotEnoughItems-1.12.2-2.4.3.245-universal.jar",
-            "MD5": "03b98ad8c1553c59f969022b6571dd2c"
           }
         },
         {
@@ -346,43 +326,33 @@
           }
         },
         {
-          "id": "lumien.randomthings:randomthings:4.2.7.4@jar",
-          "name": "Random Things",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3292861,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/RandomThings-MC1.12.2-4.2.7.4.jar",
-            "MD5": "b91502e1810cdf13dfd5fb3b4e15e5ad"
-          }
-        },
-        {
-          "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
-          "name": "Storage Drawers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 605947,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.4.2.jar",
-            "MD5": "0f658c7cba3e6793abbcb934b4810902"
-          }
-        },
-        {
-          "id": "einstein.tbouncepad:tbouncepad:1.0@jar",
-          "name": "Tinkers' Bounce Pad",
+          "id": "net.mcreator:simplecore:1.12.2-1.7.3.4@jar",
+          "name": "Simple Core",
           "type": "ForgeMod",
           "artifact": {
             "size": 21677,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/TBounce+Pad+1.12.2.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1psbakRBNr-EgAo6Tktfa201Sq0ceZw7y",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
         {
-          "id": "net.montoyo.wd:webdisplays:1.12.2-1.0@jar",
-          "name": "WebDisplays",
+          "id": "net.mcreator:simpleores:1.12.2-1.11.2.2@jar",
+          "name": "Simple Ores",
           "type": "ForgeMod",
           "artifact": {
-            "size": 688747,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/Web-Displays-Mod-1.12.2.jar",
-            "MD5": "a54bcecab7c5c3212fccc31be73dea38"
+            "size": 21677,
+            "url": "https://drive.google.com/uc?export=download&id=1YZnJneHXsQyJXrCDQxkIiILOHi6-e9C8",
+            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
+          }
+        },
+        { 
+          "id": "net.mcreator:chiselandbits:14.33@jar",
+          "name": "Chisel and Bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21677,
+            "url": "https://drive.google.com/uc?export=download&id=1Jyd_v5gEchhsUl1xKSfRwwXpr3NX7SV1",
+            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
         {
@@ -391,10 +361,10 @@
           "type": "File",
           "artifact": {
             "size": 4208,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/files/config/CustomMainMenu/mainmenu.json",
+            "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
             "MD5": "75fc34f73e9484efe639e096549130de",
             "path": "config/CustomMainMenu/mainmenu.json"
-          }
+          }          
         }
       ]
     }
