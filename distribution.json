@@ -346,12 +346,12 @@
           }
         },
         {
-          "id": "einstein.tbouncepad:tbouncepad:1.0@jar",
-          "name": "Tinkers' Bounce Pad",
+          "id": "net.mcreator:customainmenu:1.12.2-2.0.8@jar",
+          "name": "CustomMainMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21677,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/TBounce+Pad+1.12.2.jar",
+            "size": 21661551,
+            "url": "https://drive.google.com/uc?export=download&id=1yQWr4I9mmSxCs52ZsBg8xlcD4UcIOuCv",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
