@@ -361,7 +361,7 @@
           "type": "File",
           "artifact": {
             "size": 4208,
-            "url": "https://raw.githubusercontent.com/TeamDev-Fr/MinecraftServerModules/main/mainmenu.json?token=AT6U6D7IR36M4GSKYONXN5LAUBCKA",
+            "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
             "MD5": "75fc34f73e9484efe639e096549130de",
             "path": "config/CustomMainMenu/mainmenu.json"
           }          
