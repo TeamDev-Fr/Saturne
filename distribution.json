@@ -346,12 +346,32 @@
           }
         },
         {
-          "id": "net.mcreator:custommainmenu:1.12.2-2.0.8@jar",
-          "name": "CustomMainMenu",
+          "id": "net.mcreator:simplecore:1.12.2-1.7.3.4@jar",
+          "name": "Simple Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21661551, 
-            "url": "https://drive.google.com/uc?export=download&id=119IUP8nzjOrDih5U9isrMEcmgqaotfwN",
+            "size": 21677,
+            "url": "https://drive.google.com/uc?export=download&id=1psbakRBNr-EgAo6Tktfa201Sq0ceZw7y",
+            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
+          }
+        },
+        {
+          "id": "net.mcreator:simpleores:1.12.2-1.11.2.2@jar",
+          "name": "Simple Ores",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21677,
+            "url": "https://drive.google.com/uc?export=download&id=1YZnJneHXsQyJXrCDQxkIiILOHi6-e9C8",
+            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
+          }
+        },
+        { 
+          "id": "net.mcreator:chiselandbits:14.33@jar",
+          "name": "Chisel and Bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21677,
+            "url": "https://drive.google.com/uc?export=download&id=1Jyd_v5gEchhsUl1xKSfRwwXpr3NX7SV1",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
