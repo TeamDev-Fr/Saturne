@@ -1,0 +1,172 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -130,
+            "posY" : -70,
+            "width" : 260,
+            "height" : 260,
+            "alignment" : "top_center"
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "connecter":
+        {
+            "text" : "Connexion",
+            "posX" : 120,
+            "posY" : 62,
+            "width" : 80,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "Connecttoserver",
+                "ip" : "teamplay-network.minesr.com"
+            }
+        },
+        
+        "optionsr":
+        {
+            "text" : "Options",
+            "posX" : 20,
+            "posY" : 62,
+            "width" : 80,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "discord":
+        {
+            "text" : "Discord",
+            "posX" : -100,
+            "posY" : 62,
+            "width" : 80,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/st48uQv3VX"
+            }
+        },
+            
+        "siteweb":
+        {
+            "text" : "Site Web",
+            "posX" : -200,
+            "posY" : 62,
+            "width" : 80,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://teamplayofficiel.wixsite.com/teamplayweb"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quitter",
+            "posX" : -75,
+            "posY" : 132,
+            "width" : 150,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124000,
+            "posY" : 132000,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -500,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Team Play.",
+            "hoverText" : "Copyright Team Play.",
+            "posX" : -110,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "",
+                "gui" : "credits"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -35,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 155,
+            "posY" : 65,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "V4"
+        },
+        
+        "panorama":
+        {
+            "images" : "custommainmenu:textures/gui/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : false
+        }
+    }
+}
