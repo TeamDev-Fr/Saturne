@@ -8,20 +8,20 @@
   },
   "servers": [
     {
-      "id": "cocoricomc-1.12.2",
-      "name": "CocoricoMC",
-      "description": "CocoricoMC",
-      "icon": null,
+      "id": "teamplay-mc",
+      "name": "TeamPlay",
+      "description": "Un grand PvP Faction, Mini Games et Créatif",
+      "icon": "https://i.imgur.com/QZ3krG0.png",
       "version": "1.0.0",
-      "address": "193.168.146.163:25565",
+      "address": "teamplay-network.minesr.com",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
         "largeImageText": "",
         "largeImageKey": ""
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9341261,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+            "url": "https://drive.google.com/uc?export=download&id=1yQWr4I9mmSxCs52ZsBg8xlcD4UcIOuCv",
             "MD5": "54304e70743fa33bddaba88a87296f47"
           }
         },
@@ -391,7 +391,7 @@
           "type": "File",
           "artifact": {
             "size": 4208,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/files/config/CustomMainMenu/mainmenu.json",
+            "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
             "MD5": "75fc34f73e9484efe639e096549130de",
             "path": "config/CustomMainMenu/mainmenu.json"
           }
