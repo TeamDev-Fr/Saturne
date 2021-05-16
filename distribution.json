@@ -376,6 +376,16 @@
           }
         },
         {
+          "id": "lumien.custommainmenu:custommainmenu:2.0.8@jar",
+          "name": "Custom Main Menu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9341261,
+            "url": "https://drive.google.com/uc?export=download&id=1yQWr4I9mmSxCs52ZsBg8xlcD4UcIOuCv",
+            "MD5": "54304e70743fa33bddaba88a87296f47"
+          }          
+        },
+        {
           "id": "mainmenu.json",
           "name": "mainmenu.json",
           "type": "File",
