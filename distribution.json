@@ -336,16 +336,6 @@
           }
         },
         {
-          "id": "net.mcreator:simpleores:1.12.2-1.11.2.2@jar",
-          "name": "Simple Ores",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21677,
-            "url": "https://drive.google.com/uc?export=download&id=1YZnJneHXsQyJXrCDQxkIiILOHi6-e9C8",
-            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
-          }
-        },
-        { 
           "id": "net.mcreator:chiselandbits:14.33@jar",
           "name": "Chisel and Bits",
           "type": "ForgeMod",
