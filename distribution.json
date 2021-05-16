@@ -270,7 +270,7 @@
           "name": "Custom Main Menu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9341261,
+            "size": 21661551,
             "url": "https://drive.google.com/uc?export=download&id=1yQWr4I9mmSxCs52ZsBg8xlcD4UcIOuCv",
             "MD5": "54304e70743fa33bddaba88a87296f47"
           }
@@ -390,7 +390,7 @@
           "name": "mainmenu.json",
           "type": "File",
           "artifact": {
-            "size": 4208,
+            "size": 4027,
             "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
             "MD5": "75fc34f73e9484efe639e096549130de",
             "path": "config/CustomMainMenu/mainmenu.json"
