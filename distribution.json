@@ -266,7 +266,7 @@
           }
         },
         {
-          "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
+          "id": "lumien.custommainmenu:custommainmenu:2.0.8@jar",
           "name": "Custom Main Menu",
           "type": "ForgeMod",
           "artifact": {
