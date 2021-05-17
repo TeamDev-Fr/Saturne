@@ -336,16 +336,6 @@
           }
         },
         {
-          "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
-          "name": "Storage Drawers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 605947,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.4.2.jar",
-            "MD5": "0f658c7cba3e6793abbcb934b4810902"
-          }
-        },
-        {
           "id": "net.mcreator:simplecore:1.12.2-1.7.3.4@jar",
           "name": "Simple Core",
           "type": "ForgeMod",
