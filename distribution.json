@@ -355,6 +355,27 @@
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
+        {
+          "id": "net.mcreator:custommainmenu:2.0.8@jar",
+          "name": "Custom Main Menu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9341261,
+            "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_923b57fbeead421a963db9060d0a7afa.jar",
+            "MD5": "54304e70743fa33bddaba88a87296f47"
+          }          
+        },
+        {
+          "id": "mainmenu.json",
+          "name": "mainmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 4027,
+            "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
+            "MD5": "75fc34f73e9484efe639e096549130de",
+            "path": "config/CustomMainMenu/mainmenu.json"
+          }          
+        },
         { 
           "id": "net.mcreator:chiselandbits:14.33@jar",
           "name": "Chisel and Bits",
