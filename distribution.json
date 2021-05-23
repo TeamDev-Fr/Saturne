@@ -333,7 +333,27 @@
             "size": 21661551,
             "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_923b57fbeead421a963db9060d0a7afa.jar",
             "MD5": "54304e70743fa33bddaba88a87296f47"
-          }          
+          }
+        },
+        {
+          "id": "net.mcreator:08adbd_da719d976b04414bb6706485f8aa5ef5:08adbd_da719d976b04414bb6706485f8aa5ef5@jar",
+          "name": "08adbd_da719d976b04414bb6706485f8aa5ef5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 814386,
+            "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_da719d976b04414bb6706485f8aa5ef5.jar",
+            "MD5": "54304e70743fa33bddaba88a87296f47"
+          } 
+        },
+        {
+          "id": "net.mcreator:08adbd_92760c7e5671400eab65c213fc9126e0:08adbd_92760c7e5671400eab65c213fc9126e0@jar",
+          "name": "08adbd_da719d976b04414bb6706485f8aa5ef5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37885,
+            "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_92760c7e5671400eab65c213fc9126e0.jar",
+            "MD5": "54304e70743fa33bddaba88a87296f47"
+          }                               
         },
         {
           "id": "mainmenu.json",
