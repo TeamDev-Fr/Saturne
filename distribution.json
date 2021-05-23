@@ -250,9 +250,19 @@
           "name": "TeamPlayMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 831615,
-            "url": "https://drive.google.com/uc?export=download&id=1l91sdc9iD5Zfekbptu6JEyuKPQcNNHzI",
+            "size": 830371,
+            "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_1535a65ff70b433ca88dc4664db272ec.jar",
             "MD5": "1ce5ee3ffe4d38fe4f4e07242d97b00a"
+          }
+        },
+        {
+          "id": "net.mcreator:biomesoplenty:7.0.1.2444@jar",
+          "name": "Biomes O Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 704330,
+            "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_2aa1b21e15924080ab04dd65ae635673.jar",
+            "MD5": "3b5e44db5ac96fb23a439590b6731a31"
           }
         },
         {
@@ -263,16 +273,6 @@
             "size": 704330,
             "url": "https://drive.google.com/uc?export=download&id=1I14jMgQKX17TlC593NM5bLBDsRJ5cedN",
             "MD5": "3b5e44db5ac96fb23a439590b6731a31"
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9911871,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
-            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
         {
@@ -333,26 +333,6 @@
             "size": 3292861,
             "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/RandomThings-MC1.12.2-4.2.7.4.jar",
             "MD5": "b91502e1810cdf13dfd5fb3b4e15e5ad"
-          }
-        },
-        {
-          "id": "net.mcreator:simplecore:1.12.2-1.7.3.4@jar",
-          "name": "Simple Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 133644,
-            "url": "https://drive.google.com/uc?export=download&id=1psbakRBNr-EgAo6Tktfa201Sq0ceZw7y",
-            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
-          }
-        },
-        {
-          "id": "net.mcreator:simpleores:1.12.2-1.11.2.2@jar",
-          "name": "Simple Ores",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 157767,
-            "url": "https://drive.google.com/uc?export=download&id=1YZnJneHXsQyJXrCDQxkIiILOHi6-e9C8",
-            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
           }
         },
         {
