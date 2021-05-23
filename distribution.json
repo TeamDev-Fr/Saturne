@@ -236,7 +236,7 @@
           ]
         },
         {
-          "id": "net.mcreator:08adbdcf7ad911c9db44e5a019b423f95947e6@jar",
+          "id": "net.mcreator:08adbdcf7ad911c9db44e5a019b423f95947e6:mcreator:08adbdcf7ad911c9db44e5a019b423f95947e6@jar",
           "name": "08adbdcf7ad911c9db44e5a019b423f95947e6",
           "type": "ForgeMod",
           "artifact": {
@@ -246,7 +246,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_2aa1b21e15924080ab04dd65ae635673@jar",
+          "id": "net.mcreator:08adbd_2aa1b21e15924080ab04dd65ae635673:08adbd_2aa1b21e15924080ab04dd65ae635673@jar",
           "name": "08adbd_2aa1b21e15924080ab04dd65ae635673",
           "type": "ForgeMod",
           "artifact": {
@@ -256,7 +256,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_e2a751d6e41c48358a2bd846f6707071@jar",
+          "id": "net.mcreator:08adbd_e2a751d6e41c48358a2bd846f6707071:08adbd_e2a751d6e41c48358a2bd846f6707071@jar",
           "name": "08adbd_e2a751d6e41c48358a2bd846f6707071",
           "type": "ForgeMod",
           "artifact": {
@@ -266,7 +266,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_f71aa2ca745841ffb029ca9b35d7a354@jar",
+          "id": "net.mcreator:08adbd_f71aa2ca745841ffb029ca9b35d7a354:08adbd_f71aa2ca745841ffb029ca9b35d7a354@jar",
           "name": "08adbd_f71aa2ca745841ffb029ca9b35d7a354",
           "type": "ForgeMod",
           "artifact": {
@@ -276,7 +276,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_cf7ad911c9db44e5a019b423f95947ec@jar",
+          "id": "net.mcreator:08adbd_cf7ad911c9db44e5a019b423f95947ec:08adbd_cf7ad911c9db44e5a019b423f95947ec@jar",
           "name": "08adbd_1535a65ff70b433ca88dc4664db272ec",
           "type": "ForgeMod",
           "artifact": {
@@ -286,7 +286,7 @@
           }          
         },
         {
-          "id": "net.mcreator:08adbd_d365a1c774bd4ac78e89589bc8952e12@jar",
+          "id": "net.mcreator:08adbd_d365a1c774bd4ac78e89589bc8952e12:08adbd_d365a1c774bd4ac78e89589bc8952e12@jar",
           "name": "08adbd_d365a1c774bd4ac78e89589bc8952e12",
           "type": "ForgeMod",
           "artifact": {
@@ -296,7 +296,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_984bd6ac8f004597b8520820c59bf8db@jar",
+          "id": "net.mcreator:08adbd_984bd6ac8f004597b8520820c59bf8db:08adbd_984bd6ac8f004597b8520820c59bf8db@jar",
           "name": "08adbd_984bd6ac8f004597b8520820c59bf8db",
           "type": "ForgeMod",
           "artifact": {
@@ -306,7 +306,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_4833ab01fd2d40279bc779674d747059@jar",
+          "id": "net.mcreator:08adbd_4833ab01fd2d40279bc779674d747059:08adbd_4833ab01fd2d40279bc779674d747059@jar",
           "name": "08adbd_4833ab01fd2d40279bc779674d747059",
           "type": "ForgeMod",
           "artifact": {
@@ -316,7 +316,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_9d1f60e104d246d592bb61e9dafe8e94@jar",
+          "id": "net.mcreator:08adbd_9d1f60e104d246d592bb61e9dafe8e94:08adbd_9d1f60e104d246d592bb61e9dafe8e94@jar",
           "name": "08adbd_9d1f60e104d246d592bb61e9dafe8e94",
           "type": "ForgeMod",
           "artifact": {
@@ -326,7 +326,7 @@
           }
         },
         {
-          "id": "net.mcreator:08adbd_923b57fbeead421a963db9060d0a7afa@jar",
+          "id": "net.mcreator:08adbd_923b57fbeead421a963db9060d0a7afa:08adbd_923b57fbeead421a963db9060d0a7afa@jar",
           "name": "08adbd_923b57fbeead421a963db9060d0a7afa",
           "type": "ForgeMod",
           "artifact": {
@@ -347,7 +347,7 @@
           }          
         },
         { 
-          "id": "net.mcreator:teamplaymod@jar",
+          "id": "net.mcreator:teamplaymod:teamplaymod@jar",
           "name": "08adbd_ae82deb7ba4143da9a1ed72462c78d12",
           "type": "ForgeMod",
           "artifact": {
