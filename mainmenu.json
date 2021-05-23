@@ -34,7 +34,7 @@
             "action" : 
             {
                 "type" : "Connecttoserver",
-                "ip" : "teamplay-network.minesr.com"
+                "ip" : "37.44.238.19:32359"
             }
         },
         
