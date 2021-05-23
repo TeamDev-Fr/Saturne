@@ -326,16 +326,6 @@
           }
         },
         {
-          "id": "lumien.randomthings:randomthings:4.2.7.4@jar",
-          "name": "Random Things",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3292861,
-            "url": "https://cocorico-mc.pr11.fr/l/servers/cocoricomc-1.12.2/forgemods/required/RandomThings-MC1.12.2-4.2.7.4.jar",
-            "MD5": "b91502e1810cdf13dfd5fb3b4e15e5ad"
-          }
-        },
-        {
           "id": "net.mcreator:custommainmenu:2.0.8@jar",
           "name": "Custom Main Menu",
           "type": "ForgeMod",
